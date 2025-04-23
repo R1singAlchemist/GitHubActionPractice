@@ -5,7 +5,7 @@ const dayOfTheWeek = (date = new Date()) => {
 }
 
 const monthOfTheYear = ( date = new Date() ) => {
-    const months = ['January' , 'Feburary', 'March' , 'April' , 'May' , 'June' , 'July' , 'August', 'September' , 'October',
+    const month = ['January' , 'Feburary', 'March' , 'April' , 'May' , 'June' , 'July' , 'August', 'September' , 'October',
         'November', 'December'
     ]
 
